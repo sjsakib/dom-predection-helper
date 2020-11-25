@@ -9,7 +9,10 @@
     "lint": "eslint . --fix"
   },
   "dependencies": {
+    "benchmark": "^2.1.4",
     "diff_match_patch": "^0.1.1",
+    "jquery": "^3.5.1",
+    "lodash": "^4.17.20",
     "optimal-select": "^4.0.1"
   },
   "devDependencies": {
